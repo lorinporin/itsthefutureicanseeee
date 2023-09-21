@@ -1,0 +1,49 @@
+.top{
+    border: 10px dotted olive;
+    background-color: darkmagenta;
+}
+
+
+img{
+    width: 500px;
+}
+
+h1{
+    color: darkorange;
+    font-family: 'Spicy Rice', cursive;
+    text-align: center;
+    scale:200%
+
+}
+
+h2{
+    font-family: 'Spicy Rice', cursive;
+    text-align: center;
+    color: teal;
+}
+
+
+table{
+    font-family: 'Spicy Rice', cursive;
+    margin-bottom: 160px;
+    margin-left: 50px;
+    display: inline-block;
+    border: 5px solid deeppink;
+    text-align: center;
+    font-size: 50px;
+    color: darkmagenta;
+
+}
+
+ul{
+    
+    font-family: 'Spicy Rice', cursive;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    color:olive;
+}
+.bottom{
+
+    background-color: darkorange;
+}
